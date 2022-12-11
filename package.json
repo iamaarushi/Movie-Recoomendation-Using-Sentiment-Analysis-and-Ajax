@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "![Python](https://img.shields.io/badge/Python-3.8-blueviolet)\r ![Framework](https://img.shields.io/badge/Framework-Flask-red)\r ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)\r ![API](https://img.shields.io/badge/API-TMDB-fcba03)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "",
+  "license": "ISC"
+}
